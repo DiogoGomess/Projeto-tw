@@ -1,0 +1,14 @@
+###########################################################
+                                                          #
+Pedimos desculpas pela má organização. Tentamos           #
+colocar todos os ficheiros de css numa única              #
+pasta e os de html noutra mas começou a dar muitos        #
+problemas e já não temos muito tempo para os              #
+resolver.                                                 #
+                                                          #
+Queriamos também salientar que cometemos                  #
+o erro de criar uma página de css para cada página de     #
+html. Isso era uma das coisas que também mudávamos no     #
+projeto se tivéssemos mais tempo.                         #
+                                                          #
+###########################################################
